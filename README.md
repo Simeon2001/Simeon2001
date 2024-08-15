@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-<h3 align="center">A passionate and enthusiastic  Backend Developer</h3>
+<h3 align="center">A passionate and enthusiastic  Backend Developer
+ <img src="https://github.com/Simeon2001/Simeon2001/blob/main/YouCut_20240611_190432419.gif" width="22" height="22">
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Simeon2001&label=Profile%20views&color=0e75b6&style=flat" alt="Simeon2001" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Simeon2001" alt="Simeon2001" /></a> </p>

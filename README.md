@@ -18,6 +18,7 @@
 - ⚡ Fun fact: I love reading and traveling.
 
 - 👨‍💻 All of my projects are available at [https://simeon2001.github.io](https://simeon2001.github.io)
+- You can read my articles here at [https://dev.to/simeon2001](https://dev.to/simeon2001)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wq2xYnnatJaJJvmpMf_iwhWnMYinGTYZ/view?usp=sharing](https://drive.google.com/file/d/1wq2xYnnatJaJJvmpMf_iwhWnMYinGTYZ/view?usp=sharing)
 

@@ -8,18 +8,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Simeon2001&label=Profile%20views&color=0e75b6&style=flat" alt="Simeon2001" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Simeon2001" alt="Simeon2001" /></a> </p>
 
-- 🔭 I’m currently working on [Cloudfim - A cloud storage for photos API](https://github.com/Simeon2001/cloudfilm)
+- 🔭 I’m currently working on [APIFLECT - A cloud storage for photos API](https://github.com/Simeon2001/cloudfilm)
 - 🌱 I’m currently learning **Golang, Vyper, Flutter, AWS**
 
 - 💬 Ask me about **Python, Django, Golang**
 
-- 📫 How to reach me **jesusanyasimeon@gmail.com **
+- 📫 How to reach me [jesusanyasimeon@gmail.com](jesusanyasimeon@gmail.com)
 
-- ⚡ Fun fact **I love reading and traveling **
+- ⚡ Fun fact: I love reading and traveling.
 
 - 👨‍💻 All of my projects are available at [https://simeon2001.github.io](https://simeon2001.github.io)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Q53wcKoRYHtUyeetn_DOU1z53M6gXytoQ7ntzH9tt6g/edit?usp=sharing](https://docs.google.com/document/d/1Q53wcKoRYHtUyeetn_DOU1z53M6gXytoQ7ntzH9tt6g/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wq2xYnnatJaJJvmpMf_iwhWnMYinGTYZ/view?usp=sharing](https://drive.google.com/file/d/1wq2xYnnatJaJJvmpMf_iwhWnMYinGTYZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
